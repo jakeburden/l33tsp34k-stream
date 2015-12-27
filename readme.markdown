@@ -29,6 +29,7 @@ process.stdin
 ##### `stream.write('makes this stream 1337')`
 ##### `stream.end('end this 1337 stream \n')`
 ##### `stream.pipe(<writeable stream>)`
+##### `<readable stream>.pipe(stream)`
 
 
 
