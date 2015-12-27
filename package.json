@@ -2,6 +2,14 @@
   "name": "l33tsp34k-stream",
   "version": "1.0.2",
   "description": "streamable l33tsp34k",
+  "keywords": [
+    "l33tsp34k",
+    "leetspeek",
+    "leet-speak",
+    "leetspeak",
+    "stream",
+    "l33tsp34k-stream"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
