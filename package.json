@@ -1,0 +1,24 @@
+{
+  "name": "l33tsp34k-stream",
+  "version": "1.0.0",
+  "description": "streamable l33tsp34k",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Jacob Burden",
+  "license": "MIT",
+  "devDependencies": {
+    "concat-stream": "^1.5.1",
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "l33tsp34k": "^1.0.5",
+    "through2": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jekrb/l33tsp34k-stream.git"
+  },
+  "homepage": "https://github.com/jekrb/l33tsp34k-stream"
+}
